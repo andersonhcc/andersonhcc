@@ -1,4 +1,4 @@
-### Olá! Eu sou o Anderson Henrique 👋
+### Hi! I'm Anderson Henrique👋
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/andersonhenriquecc/)
@@ -6,7 +6,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhcc&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Tecnologias que uso no meu dia
+## Tools:
 <div style="display: inline_block"><br/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 
@@ -27,5 +27,5 @@ Caminho, 813
 
 <br/>
 
-## Email:
+## E-mail:
 programadorandersonh@gmail.com
