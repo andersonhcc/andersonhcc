@@ -17,6 +17,10 @@
 
 <br/> <br/>
 
+![snake gif](https://github.com/andersonhcc/andersonhcc/blob/output/github-contribution-grid-snake.gif)
+
+
+
 Fazei tudo por Amor. - Assim não há coisas pequenas: tudo é grande. - A perseverança nas pequenas coisas, por Amor, é heroísmo.
 
 Caminho, 813
