@@ -4,6 +4,8 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=andersonhcc&show_icons=true&theme=tokyonight)
 
+<img height="160em" src="https://camo.githubusercontent.com/3a2ca36c840275051773902b0bd0a5110e57cc7df359ae96a6a9c176f8864d16/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d4576616e696c736f6e7067267468656d653d64726163756c6126686964655f626f726465723d66616c736526266c61796f75743d636f6d70616374" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhcc&amp;theme=dracula&amp;hide_border=false&amp;&amp;layout=compact" style="max-width: 100%;">
+
 ## Tools:
 <div style="display: inline_block"><br/>
 <img align ="center" alt="html15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
