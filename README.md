@@ -1,6 +1,6 @@
 ### Hi! I'm Anderson Henrique
 
-<p align="center"> Front-End Developer 💻 </p>
+<p align="center"> Developer React Native. 💻 </p>
 
 
 <div align="center">
