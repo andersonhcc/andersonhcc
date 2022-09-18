@@ -1,4 +1,4 @@
-#### Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology and general.
+#### Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology general.
 
 
 <div align="center">
