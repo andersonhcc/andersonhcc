@@ -12,9 +12,9 @@
 
 ## Technology
 <div style="display: inline_block" align="center"><br/>
-<img align ="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white/>
+<img align ="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
-<img align ="center" alt="TypeScript" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img align ="center" alt="ReactNative" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
 
 <img align ="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
@@ -32,7 +32,7 @@
 
 "The most important thing is to try and inspire people so that they can be great in whatever they want to do." 
 
-- Kobe Bryant
+ <p> - Kobe Bryant </p>
 
 <br/>
 
