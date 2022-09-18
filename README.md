@@ -1,6 +1,4 @@
-### Hi! I'm Anderson Henrique
-
-<p align="center"> Developer React Native JR </p>
+### Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology and general.
 
 
 <div align="center">
@@ -14,12 +12,13 @@
 
 ## Technology
 <div style="display: inline_block" align="center"><br/>
-<img align ="center" alt="html15" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+<img align ="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white/>
 
-<img align ="center" alt="Css3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+<img align ="center" alt="TypeScript" src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img align ="center" alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
 
 <img align ="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-
 
 <img align ="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"/>
 
@@ -31,9 +30,9 @@
 
 
 
-Fazei tudo por Amor. - Assim não há coisas pequenas: tudo é grande. - A perseverança nas pequenas coisas, por Amor, é heroísmo.
+"The most important thing is to try and inspire people so that they can be great in whatever they want to do." 
 
-Caminho, 813
+- Kobe Bryant
 
 <br/>
 
