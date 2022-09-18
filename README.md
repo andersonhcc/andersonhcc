@@ -1,4 +1,4 @@
-## Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology and general.
+#### Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology and general.
 
 
 <div align="center">
@@ -10,7 +10,7 @@
 
 
 
-# Technology
+### Technology
 <div style="display: inline_block" align="center"><br/>
 <img align ="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
 
@@ -36,7 +36,7 @@
 
 <br/>
 
-# Social
+### Social
 
 <div align="center"> <br>
 
