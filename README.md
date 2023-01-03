@@ -1,6 +1,6 @@
 
 
-<h3 align="center"><samp>Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology general.</b></samp></h3>
+<h3 align="center"><samp>Who am I? Anderson Henrique, 22 yo, new to developer mobile & backend and an enthusiast in  technology general.</b></samp></h3>
 <p align="center"><br>
   <samp>
     「 Developer mobile and backend 」<br>
