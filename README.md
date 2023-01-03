@@ -1,13 +1,22 @@
-#### Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology general.
 
 
-<div align="center">
-  <a href="https://github.com/andersonhcc">
+<h3 align="center"><samp>Who am I? Anderson Henrique, 22 yo, new to developer mobile and an enthusiast in  technology general.</b></samp></h3>
+<p align="center"><br>
+  <samp>
+    「 Developer mobile and backend 」<br>
+  </samp>
+</p>
+<details align="center">
+   <summary> <samp>&#9776; Details</samp></summary>
+   <p align="center">
+     <br>
+       <a href="https://github.com/andersonhcc">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=andersonhcc&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andersonhcc&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
+  <br>
+</a>
 
-
+<div>
 
 
 ### Technology
@@ -36,7 +45,15 @@
 
 <br/>
 
-### Social
+  </samp>
+  </p>
+</details>
+<br>
+<samp>
+  <p align="center">
+    ════ ⋆★⋆ ════
+  </p>
+
 
 <div align="center"> <br>
 
@@ -44,3 +61,7 @@
 
 
 </div>
+
+
+
+</samp>
