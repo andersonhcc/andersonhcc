@@ -1,2 +1,1 @@
-"The most important thing is to try and inspire people so that they can be great in whatever they want to do." - Kobe Bryant
-
+"If you can do a half-assed job of anything, you're a one-eyed man in a kingdom of the blind." — Kurt Vonnegut
