@@ -24,4 +24,5 @@ I also explore AI-assisted software development, including LLM integrations, AI 
 I'm passionate about building scalable, secure, and high-performance solutions that create real value. I enjoy working across the entire development lifecycle—from architecture and implementation to deployment and continuous improvement.
 <br>
 <br>
+
 > “If you can do a half-assed job of anything, you're a one-eyed man in a kingdom of the blind.” — Kurt Vonnegut
