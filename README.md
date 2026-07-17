@@ -9,7 +9,7 @@
 </a>
 
 <br>
-I'm a Full Stack Developer with over 4+ years of experience building backend, frontend, and mobile applications.
+I'm a Full Stack Developer with experience building backend, frontend, and mobile applications.
 <br>
 <br>
 I have worked with international companies and fintech products. My experience includes developing distributed systems, integrating banking and payment services, building financial solutions, and creating reliable applications for complex business environments.
@@ -22,10 +22,6 @@ I also explore AI-assisted software development, including LLM integrations, AI 
 <br>
 <br>
 I'm passionate about building scalable, secure, and high-performance solutions that create real value. I enjoy working across the entire development lifecycle—from architecture and implementation to deployment and continuous improvement.
-<br>
-<br>
-Beyond technology, I love continuously learning, studying new languages, discovering different cultures, and expanding the way I understand and communicate with the world.
-<br>
 <br>
 
 > “If you can do a half-assed job of anything, you're a one-eyed man in a kingdom of the blind.” — Kurt Vonnegut
